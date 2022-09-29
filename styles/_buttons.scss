@@ -1,0 +1,11 @@
+@import "./variables";
+
+.header-btn{
+    background-color: $primary-color-one;
+    padding: 12px 20px;
+    font-size: 10px;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
